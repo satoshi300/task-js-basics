@@ -94,17 +94,7 @@ Calculator.prototype.pow = function (num1, num2) {
 | displaying previous calculations        | `sused join('\n') to show history as text`          |     |
 | exponentiation without built-in function| `used for loop instead of Math.pow()`               |     |
 
- &nbsp;
- 
-- four - some shortcut <kbd>Ctrl</kbd> + <kbd>C</kbd>
-
- &nbsp;
- 
-- five - example with a screenshot
-<img alt='what it is' src="https://via.placeholder.com/500x200" />
-
-
-&nbsp;
+ &nbsp; 
 
 ## 💭 Conclusions for future projects
 
