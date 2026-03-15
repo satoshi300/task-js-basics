@@ -26,7 +26,7 @@ The application allows the user to perform basic mathematical operations in the 
 &nbsp;
  
 ## 🔗 See also
-Are you interested in JavaScript and Frontend Development? See my other project **React Kanban Board**.
+Are you interested in JavaScript and Frontend Development? See my other project **React Kanban Board** ![React Kanban Board](https://github.com/satoshi300/task-react-modern) .
 
 &nbsp;
  
