@@ -1,7 +1,7 @@
 
-![screen or GIF of your app](https://via.placeholder.com/1000x300)
+![Calculator](./images/calculator.png)
 
-# Project Name
+# Calculator
 
 This project is a simple calculator built with plain JavaScript.  
 The application allows the user to perform basic mathematical operations in the browser using `prompt()`, and it also stores the history of all calculations.
